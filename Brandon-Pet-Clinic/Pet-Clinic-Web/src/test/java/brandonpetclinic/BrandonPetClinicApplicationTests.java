@@ -1,4 +1,4 @@
-package com.brandon.mullis.brandonpetclinic;
+package brandonpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
