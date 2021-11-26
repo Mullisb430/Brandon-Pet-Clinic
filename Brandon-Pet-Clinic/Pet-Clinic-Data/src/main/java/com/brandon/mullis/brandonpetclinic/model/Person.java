@@ -1,6 +1,6 @@
 package com.brandon.mullis.brandonpetclinic.model;
 
-public class Person
+public class Person extends BaseEntity
 {
 
     private String firstName;

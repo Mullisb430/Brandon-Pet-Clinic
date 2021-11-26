@@ -1,6 +1,7 @@
 package com.brandon.mullis.brandonpetclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity
+{
     private String name;
 
     public String getName() {
