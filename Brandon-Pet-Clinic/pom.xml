@@ -19,7 +19,7 @@
     <name>Brandon-Pet-Clinic</name>
     <description>Brandon-Pet-Clinic</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <build>
@@ -38,5 +38,9 @@
             </plugin>
         </plugins>
     </build>
+
+    <scm>
+        <developerConnection>scm:git:git@github.com:Mullisb430/Brandon-Pet-Clinic.git</developerConnection>
+    </scm>
 
 </project>
